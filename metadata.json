@@ -1,0 +1,6 @@
+{
+  "name": "ShopVoice AI",
+  "description": "Official AI Voice Assistant for THE-इन्सानियत PVT.LTD & TRUST ME भारत-BAZAAR across Barbigha, Sarmera, Sheikhpura, and Bihar Sharif with 37 business categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
